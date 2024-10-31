@@ -20,10 +20,7 @@ The Spotify Website Clone is a front-end project that replicates the design and 
 
 ### 📸 Screenshots
 
-- ![Homepage](https://github.com/yourusername/spotify-website-clone/blob/main/screenshots/homepage.png)
-- ![Library](https://github.com/yourusername/spotify-website-clone/blob/main/screenshots/library.png)
-- ![Search](https://github.com/yourusername/spotify-website-clone/blob/main/screenshots/search.png)
-- ![Player Controls](https://github.com/yourusername/spotify-website-clone/blob/main/screenshots/player-controls.png)
+![Homepage](https://github.com/5225prachi/SPOTIFY-CLONE/blob/main/homepage.png)
 
 ### 🌍 Live Demo
 
